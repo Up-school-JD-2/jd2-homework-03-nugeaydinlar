@@ -35,7 +35,7 @@ public class homework3_1 {
 
 		}
 		
-		System.out.println("Please enter your game score: ");
+		System.out.println("Please enter the game score to end: ");
 		int gameScore = scan.nextInt();
 		
 		while(isFinished) {
