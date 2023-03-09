@@ -41,7 +41,6 @@ public class homework3_1 {
 		while(isFinished) {
 			
 			int rand = random.nextInt(100) + 1;
-			System.out.println(rand + " oyun denemesi oldugu icin random sayi gozukuyor");
 			System.out.println("-----------A number from 1-100 is selected-----------");
 			System.out.println();
 
